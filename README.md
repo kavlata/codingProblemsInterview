@@ -1,5 +1,6 @@
 # codingProblemsInterview
 This holds the list of questions I faced during my interviews
+Solutions are in python version 3
 
 1. Print the diagonal of matrix. For the below matrix output should be [ 1, 2, 5, 3, 6, 9, 4, 7, 10, 8, 11, 12]
 
