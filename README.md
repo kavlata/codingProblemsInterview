@@ -6,4 +6,6 @@ This holds the list of questions I faced during my interviews
 [ 5 6 7 8 ]
 [ 9 10 11 12] 
 
-2.
+2.      [ 1 2 3 ]                    
+    X = [ 4 5 6 ]    
+        [ 7 8 9 ]                    
